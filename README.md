@@ -1,7 +1,3 @@
 # hello-world
 just another repositori
-my name is Petya, na 15 go o.O. .
-i learn in  software class in  Purvomai
-my hobby is volleiball
-i love writing essays
-my favourite color is green
+My name is Petya and I am 15 years old from Parvomay. I'm studying in a software classroom. My hobby is volleyball and write essays
